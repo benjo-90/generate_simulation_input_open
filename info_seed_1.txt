@@ -1,0 +1,2 @@
+To reproduce combinations for seed 1: include brain Pat 046 (delete Pat 046 in 'not_for_brain.txt')
+(or take mirrored brain from Pat 046 into considertaion for mixing and delete it afterwards)

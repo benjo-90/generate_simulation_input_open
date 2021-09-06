@@ -1,0 +1,7 @@
+for BG threhold 1.6:
+
+046 (zu zentral)
+172 (7)
+218b (0)
+345b ?
+355a (0)
